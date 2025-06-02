@@ -1,0 +1,65 @@
+.container {
+  text-align: center;
+  max-width: 400px;
+  margin: auto;
+}
+
+input {
+  padding: 5px;
+  margin-right: 5px;
+}
+
+button {
+  margin: 5px;
+  padding: 5px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px;
+}
+
+button.ad a {
+  color: white;
+  text-decoration: none;
+}
+
+.formc,
+.formc1 {
+  background-color: aquamarine;
+  width: 28em;
+  padding: 2.4em;
+  margin: 1em 0em;
+}
+
+.success {
+  background-color: rgb(9, 246, 100);
+  padding: 1em;
+  display: none;
+}
+
+.failure {
+  background-color: darkgoldenrod;
+  padding: 1em;
+  display: none;
+}
+
+.buton {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-bottom: 2em;
+}
+
+.addc {
+  padding: 1.4em;
+  background-color: bisque;
+}
+
+.adpo{
+  width:30em;
+}
